@@ -24,7 +24,7 @@ Weekly I learned
         이때 컴퓨터는 태그를 이용한 부가적인 MarkupLanguage가 필요하다. 
         구조는 다음과 같다.
         
-        &lt;tagname&gt;content&lt;tagname&gt;
+        <tagname>content<tagname>
         ex) 위의 배포 링크를 예시로 들어보자면 
             <h1>유지석<h1> = 첫번째 단락에 '유지석'이라는 내용이 들어간다.
             <p1>안녕하세요. 저는 26학번 컴퓨터공학과 유지석이라고 합니다.<p1> = 첫번째 단락의 내용은 
